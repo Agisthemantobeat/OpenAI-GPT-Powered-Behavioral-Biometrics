@@ -44,5 +44,5 @@ Install the necessary libraries using `pip install keyboard numpy scikit-learn`.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the LICENSE for details.
 
